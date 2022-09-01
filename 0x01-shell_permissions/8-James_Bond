@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod o=hello g=hello u+r+w+x
+chmod 007 hello
