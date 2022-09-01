@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff /README.md 
+chown vincent:staff /4-empty
