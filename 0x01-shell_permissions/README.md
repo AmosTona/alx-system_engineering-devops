@@ -9,3 +9,4 @@ This script adds the execute permission to the owner and the group owner, and re
 This script adds execution permission to the owner, the group owner and the other users,to the file hello
 This script adds all permissions to the user and no permission to bothe the owner and the group
 This script adds all permisions to the owner, execution permission to the group and execution and write permision to the user
+This script set's the mode of the hello file the same as olleh's mode
