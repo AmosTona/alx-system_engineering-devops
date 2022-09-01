@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff /4-empty
+chown vincent:staff 4-empty
