@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 365 vincent staff
+chown --from=root:currentgroup vincent:staff 100-change_owner_and_group
