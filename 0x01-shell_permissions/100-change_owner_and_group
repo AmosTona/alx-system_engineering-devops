@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff 0-iam_betty
+chown 365 vincent staff
