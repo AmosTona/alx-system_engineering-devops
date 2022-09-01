@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 713 hello
+sudo chmod o+r+w+x+r g+x u+w+x
