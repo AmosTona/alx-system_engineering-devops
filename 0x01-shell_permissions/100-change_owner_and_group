@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --from=root:currentgroup vincent:staff 100-change_owner_and_group
+chown --from=root:root vincent:staff 100-change_owner_and_group
