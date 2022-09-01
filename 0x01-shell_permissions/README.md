@@ -7,3 +7,4 @@ This script create an empty file called hello
 This script adds execute permission to the owner of the file hello
 This script adds the execute permission to the owner and the group owner, and tread permission to other users, to the file hello
 This script adds execution permission to the owner, the group owner and the other users,to the file hello
+This script adds all permissions to the user and no permission to bothe the owner and the group
