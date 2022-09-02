@@ -1,2 +1,2 @@
 #!/bin/bash
-ip /tmp/iamafile
+/tmp/iamafile
