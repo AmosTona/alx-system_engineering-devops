@@ -8,3 +8,4 @@ This displays current directory contents including hidden files including user a
 This creates a directory named my_first_directory
 This script moves the file betty from /tmp/ to /tmp/my_first_directory
 This script delete the file betty
+This script deletes directory my_first_directory in the directory /tmp
